@@ -13,7 +13,7 @@
 - 🌱 I’m currently diving deep into the **Flutter Framework** to build cross-platform apps.
 - 👯 I’m looking to collaborate on **open-source Flutter projects** or any interesting mobile app ideas.
 - 🤔 I’m looking for help with **advanced state management techniques** and **native platform integrations**.
-- 💬 Ask me about **Dart, Flutter, and UI/UX design principles**.
+- 💬 Ask me about **Dart, Flutter, State Management, SQLite and programming basics**.
 - 📫 How to reach me: **[dewanganpiyush223@gmail.com](mailto:dewanganpiyush223@gmail.com)**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe a good UI can make or break an application!
